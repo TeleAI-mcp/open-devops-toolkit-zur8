@@ -1,2 +1,3 @@
-# open-devops-toolkit-zur8
-Automated issue comment bot repository
+# Open Devops Toolkit Zur8
+
+Automated issue comment bot repository.
